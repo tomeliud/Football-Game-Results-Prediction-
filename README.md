@@ -6,6 +6,7 @@ From the Home Team’s perspective predict if the game is a Win, Lose or Draw
 
 # Algorithms Used
 Polynomial Regression
+
 Logistic Regression
 
 # Experimental Design
@@ -34,5 +35,5 @@ Python
 For Any Questions, Corrections, ...
 Contact me at tomeliud500@gmail.com 
 
-Licence
+# Licence
 MIT Licence
